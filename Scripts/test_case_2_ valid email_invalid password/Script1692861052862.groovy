@@ -21,15 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.sepulsa.com/signin')
 
-WebUI.click(findTestObject('Object Repository/Page_Sepulsa Mobile  Isi Ulang Pulsa Secara_989577/div_Nomor Handphone  Email'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Sepulsa Mobile  Isi Ulang Pulsa Secara_989577/input_Yuk login dengan e-mail atau nomor HP_32d74a'), 
+WebUI.setText(findTestObject('Object Repository/Page_Sepulsa Mobile  Isi Ulang Pulsa Secara_989577/Page_Sepulsa Mobile  Isi Ulang Pulsa Secara_989577/input_Yuk login dengan e-mail atau nomor HP_32d74a'), 
     'jendeladunia56@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sepulsa Mobile  Isi Ulang Pulsa Secara_989577/input_Yuk login dengan e-mail atau nomor HP_08ff20'), 
-    '//W/OALip7zkDluhpnsFAw==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sepulsa Mobile  Isi Ulang Pulsa Secara_989577/Page_Sepulsa Mobile  Isi Ulang Pulsa Secara_989577/input_Yuk login dengan e-mail atau nomor HP_08ff20'), 
+    'HSfwNAZGHBLdjDXF/oiPqw==')
 
-WebUI.click(findTestObject('Object Repository/Page_Sepulsa Mobile  Isi Ulang Pulsa Secara_989577/button_Masuk'))
+WebUI.click(findTestObject('Object Repository/Page_Sepulsa Mobile  Isi Ulang Pulsa Secara_989577/Page_Sepulsa Mobile  Isi Ulang Pulsa Secara_989577/button_Masuk'))
 
 WebUI.closeBrowser()
 
