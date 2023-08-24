@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Yuk login dengan e-mail atau nomor HP m_c907c5</name>
+   <tag></tag>
+   <elementGuidId>fa81b5a7-daf3-4280-90a0-c6110304daf0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Yuk login dengan e-mail atau nomor HP mu untuk tetap terhubung dengan kami :)'])[1]/following::*[name()='svg'][3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Group_11157</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>7f0c47fa-045c-461d-b8ef-537ae7797e94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Group_11157</value>
+      <webElementGuid>562a39c4-1a22-4c4d-9225-55e51d05f376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dataname</name>
+      <type>Main</type>
+      <value>Group 11157</value>
+      <webElementGuid>503f8514-2ce2-447d-9501-b6a355d22610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>631f56de-51f3-4ad9-9ae5-20d48be0a56d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns:xlink</name>
+      <type>Main</type>
+      <value>http://www.w3.org/1999/xlink</value>
+      <webElementGuid>cdd33a2f-abc1-41e8-aed6-2659674700f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>21.303</value>
+      <webElementGuid>3b16efb3-3de4-452c-ac9d-c791d04e78f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>12.781</value>
+      <webElementGuid>1bb0e636-d6c4-4ebc-956a-0973666a9099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 21.303 12.781</value>
+      <webElementGuid>786bae59-0495-4b0d-9a1d-9b768189f18e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Group_11157&quot;)</value>
+      <webElementGuid>6bb41b97-7cd1-4d78-ac86-bcd98351fcbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yuk login dengan e-mail atau nomor HP mu untuk tetap terhubung dengan kami :)'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>eeaa7dc8-f62d-46c1-8810-d7079e95904f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Halo, kami merindukanmu!'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>3311278f-c613-4241-b757-acf15b74450e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>62f51144-a76b-4147-9803-c7fabc6729da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>9894a911-cb5b-4aac-9c27-e747c69d7169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[@id = 'Group_11157']</value>
+      <webElementGuid>785db404-6463-45cb-9c9e-987cbe8bf5f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
